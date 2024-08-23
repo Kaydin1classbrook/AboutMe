@@ -4,6 +4,8 @@
 ## Summary
 My name is Kaydin Brooks. Im a student that is learning the processes of learning computer tech and cyber security at Sictic. I enjoy being able to learn about IT and being able to use the teaching that have been given to me. Sictic has allowed me to widen my view on the tech world.
 
+[A]: https://deepwoken.fandom.com/wiki/Deepwoken_Wiki
+[B]: https://theuselessweb.com/
 Hobbies
 - 
 
@@ -28,7 +30,7 @@ My nighttime routine includes
 
 ## My Favorite Websites 
 
-[Deepwoken Wiki](https://deepwoken.fandom.com/wiki/Deepwoken_Wiki)
-[Useless Website](https://theuselessweb.com/)
+[A]: Deepwoken Wiki
+[B]: Useless Website
 
 
