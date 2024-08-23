@@ -43,7 +43,7 @@ My nighttime routine includes
 [Moonlord][3]<br>
 
 | Terms | Define | My Define |
-|:-| ---- |
+|:-| :----: | ---:|
 | Dismal | depressing; dreary | Pain |
 | Insidious | proceeding in a gradual, subtle way, but with harmful effects | Life |
 | Aurora | a natural electrical phenomenon characterized by the appearance of streamers of reddish or greenish light in the sky | Sky Lights full of color |
